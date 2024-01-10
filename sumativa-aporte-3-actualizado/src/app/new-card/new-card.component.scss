@@ -1,0 +1,20 @@
+@media screen and (max-width: 1237px) {
+    ion-img {
+        width: 300px;
+        height: 100px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    ion-img {
+        width: 900px;
+        height: 100px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    ion-img {
+        width: 200px;
+        height: 400px;
+    }
+}
